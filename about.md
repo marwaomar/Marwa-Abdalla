@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ pic.jpeg}})
+![Profile Image](/pic.jpeg)
 
 <p> Graduated from Systems and Biomdical Department , Cairo University faculty of engineering. Worked on different software projects whether in We development , Data science and desktop applications . Looking for an opportunity in Data science field and would love if you suggested a good book. 
 Have a good Day ! </p>
