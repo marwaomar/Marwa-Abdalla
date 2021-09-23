@@ -1,6 +1,6 @@
 # main text of home
 name: Marwa Abdullah
-bio: Biomedical Engineer who is also a book worm.
+bio: Systems and Biomedical department fresh grad. Into Machine Learning and Deep Learning and Also a book worm.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: pic.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1EtLBzIYmZVSyTh-EYyVRLnulp-MWBBlP/view?usp=drivesdk
+resume-url: https://drive.google.com/drive/folders/1hwcEC38-1Apt5gY87ibv1BljoN4zllpc?fbclid=IwAR0fibUyuY3Dc77HqBfL0dkRekrnli3Vv9kPyPFbmLuo5DRt3QCq3XdnrNM
 
 url: https://marwaomar.github.io/Marwa-Abdalla/
 # your url: https://marwaomar.github.io/MarwaAbdullah/
@@ -51,7 +51,7 @@ github: marwaomar
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: marwaomar98@outlook.com
+email: marwaomar9898@gmail.com
 
 authors:
     johndoe:
@@ -70,7 +70,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
